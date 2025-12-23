@@ -1,0 +1,9 @@
+{
+	"name": "udacity-my-read",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Udacity My Read project",
+	"scripts": {
+		"start": "node index.js"
+	}
+}
